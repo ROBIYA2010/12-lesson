@@ -73,7 +73,7 @@
     transition: background-color 2s;
     margin: 200px;
   }
-  .box:hover {
+  .card:hover {
     background-color: blueviolet;
-    background-color: black;
+    background-color: orangered;
   box-shadow: 10px 10px blue;}
